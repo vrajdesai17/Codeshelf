@@ -9,12 +9,11 @@ export default async function Home() {
 
   return (
     <div className="min-h-screen flex flex-col">
-      <header className="border-b border-slate-800 px-6 py-4 flex items-center justify-between">
+      <header className="border-b border-slate-800 px-6 py-4 flex items-center">
         <div className="flex items-center gap-2">
           <BookMarked className="w-6 h-6 text-emerald-400" />
           <span className="font-semibold text-lg tracking-tight">CodeShelf</span>
         </div>
-        <SignInButton />
       </header>
 
       <main className="flex-1 flex flex-col items-center justify-center px-6 py-24 text-center">
