@@ -73,7 +73,3 @@ Visit [http://localhost:3000](http://localhost:3000).
 2. Import repo on [vercel.com](https://vercel.com)
 3. Add all environment variables in Vercel project settings
 4. Deploy
-
-## License
-
-MIT
