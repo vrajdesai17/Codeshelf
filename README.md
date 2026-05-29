@@ -4,7 +4,8 @@ A personal code snippet manager built with Next.js, TypeScript, and PostgreSQL. 
 
 ## Screenshot
 
-> _Add a screenshot here after deploying_
+<img width="1228" height="809" alt="image" src="https://github.com/user-attachments/assets/0704efaa-f2d7-42a9-ac99-a9b7df03c7ac" />
+
 
 ## Tech Stack
 
